@@ -1,4 +1,4 @@
-# tmReviews
+# tmReviews (MERN + REDUX)
 
 ## This App is your place to record how you feel about you favourite/ least favouite TV shows/ Movies and everything for future references.
 
