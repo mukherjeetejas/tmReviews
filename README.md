@@ -5,5 +5,6 @@
 ### Client: upcoming (after login auth)
 ### Server:  https://tmreviews.herokuapp.com/
 
-![PC view](https://github.com/mukherjeetejas/tmReviews/blob/main/tmReviewsMob.jpeg)
-![Mob view](https://github.com/mukherjeetejas/tmReviews/blob/main/tmReviewsPC.PNG)
+![PC view](https://github.com/mukherjeetejas/tmReviews/blob/main/tmReviewsPC.PNG)
+![Mob view](https://github.com/mukherjeetejas/tmReviews/blob/main/tmReviewsMob.jpeg)
+
