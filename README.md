@@ -3,7 +3,7 @@
 ## This App is your place to record how you feel about you favourite/ least favouite TV shows/ Movies and everything for future references.
 
 ### Client: upcoming (after login auth)
-### Server:  https://tmreviews.herokuapp.com/ (currently facing some problem)
+### Server:  https://tmreviews.herokuapp.com/ (currently facing some DB issue)
 
 ![PC view](https://github.com/mukherjeetejas/tmReviews/blob/main/tmReviewsPC2.PNG)
 ![Mob view](https://github.com/mukherjeetejas/tmReviews/blob/main/tmReviewsMob.jpeg)
